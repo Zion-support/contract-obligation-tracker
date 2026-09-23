@@ -1,17 +1,22 @@
-# 🌐 Zion App Network — Interlinks
+# Contract Obligation Tracker — Network Interlinks
 
-**contract-obligation-tracker** is part of the Zion Tech Group app network (690+ repos).
+Part of the **Zion AI App Network** (660+ interlinked apps).
 
-- 🏠 Main site: [ziontechgroup.com](https://ziontechgroup.com)
-- 🗃️ [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Business Tools & Calculators](https://github.com/Zion-support/zion-network/blob/main/network/business-tools-calculators.md)
-- ▶️ Live app: [ziontechgroup.com/contract-obligation-tracker/](https://ziontechgroup.com/contract-obligation-tracker/)
+## Core links
+- Homepage: https://ziontechgroup.com
+- App Showcase: https://zion-support.github.io/apps/
+- Master directory: https://github.com/Zion-support/zion-app-network
+- Network hub repo: https://github.com/Zion-support/zion-network
+- GitHub org: https://github.com/Zion-support
+- Live app: https://zion-support.github.io/contract-obligation-tracker/
 
 ## Related apps
-- [zion-ai-contract-reviewer](https://github.com/Zion-support/zion-ai-contract-reviewer) — contract clause review
-- [contract-clause-reviewer](https://github.com/Zion-support/contract-clause-reviewer) — clause risk flags
-- [zion-ai-sla-breach-sentinel](https://github.com/Zion-support/zion-ai-sla-breach-sentinel) — SLA breach early-warning
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
+| App | Live | GitHub |
+|---|---|---|
+| Contract Renewal Radar | https://zion-support.github.io/contract-renewal-radar/ | https://github.com/Zion-support/contract-renewal-radar |
+| Contract Clause Reviewer | https://zion-support.github.io/contract-clause-reviewer/ | https://github.com/Zion-support/contract-clause-reviewer |
+| Proposal Builder AI | https://zion-support.github.io/proposal-builder-ai/ | https://github.com/Zion-support/proposal-builder-ai |
 
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+## Get started
+- Book a free Discovery Call: https://ziontechgroup.com/discovery/
+- Plans & pricing: https://ziontechgroup.com/en/plans/
