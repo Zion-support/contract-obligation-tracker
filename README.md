@@ -13,6 +13,7 @@ Track every contract obligation, milestone, renewal and penalty clause with AI e
 - 🏠 Homepage: https://ziontechgroup.com
 - 🌐 App Showcase: https://zion-support.github.io/apps/
 - 🧭 Master directory: https://github.com/Zion-support/zion-app-network
+- 🔗 Interlinks: see [NETWORK.md](NETWORK.md)
 
 ## Related apps
 - [Contract Renewal Radar](https://zion-support.github.io/contract-renewal-radar/)
